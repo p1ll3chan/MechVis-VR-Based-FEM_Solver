@@ -40,7 +40,8 @@
 		- shadow interpretation
 	- Formula
 		 $\operatorname{proj}_{\mathbf b}(\mathbf a)=\frac{\mathbf a\cdot\mathbf b}{\lVert\mathbf b\rVert^2}\mathbf b$
-			$a=p+r,r⊥b$
+
+         $a=p+r,r⊥b$
 	- 
 5) Then add angle for understanding **Cartesian angle form**
 	- Apply the same formula for focusing builds intuition for α, β, γ.
